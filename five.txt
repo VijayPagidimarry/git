@@ -1,1 +1,2 @@
 this is the fifth text
+this is the commit mesg amend message
