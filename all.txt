@@ -1,1 +1,2 @@
 all check
+checking now push command
